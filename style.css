@@ -1,0 +1,280 @@
+* {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding; 0;
+}
+
+h1 {
+    font-size: 50px;
+    display: inline-block;
+    font-weight: normal;
+    margin: 0;
+    vertical-align: text-bottom;
+    padding-bottom: 15px;
+    color: #474747;
+}
+
+#banner {
+    width: 970px;
+    height: 100px;
+    background: white;
+    margin-bottom: -30px;
+}
+
+#globe {
+    height: 90px;
+    z-index: 99;
+}
+
+.blue {
+    color: #3977ab;
+}
+
+.red {
+    color: red;
+}
+
+.backblue{
+    background: #3977ab;
+    margin-top: 10px;
+}
+
+.backorange {
+    background: #ef7800;
+    margin-top: 2px;
+}
+
+.backlightblue {
+    background: #24c6df;
+    margin-top: 5px;
+}
+
+
+h2 {
+    font-size: 50px;
+    display: block;
+    margin-top: 0px;
+    height: 40px;
+    width: 970px;
+    font-weight: normal;
+    font-size: 32px;
+    vertical-align: text-bottom;
+    padding: 10px 0px;
+    background: linear-gradient(to top, #2869a0,#6693bb,#2869a0);
+    color: white;
+}
+
+
+#wrapper {
+    width: 970px;
+    background: linear-gradient(to bottom, #C1D5E2, #FFFF);
+    height: 575px;
+}
+
+#sidebar {
+    height: 600px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div p {
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.button {
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px #989898;
+    color: white;
+    font-size: 16px;
+    
+}
+
+.button2 {
+    width: 180px;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    box-shadow: 1px 1px 1px black;
+    border: 1px solid black;
+    
+}
+
+#shortline {
+    margin: 20px 0px;
+}
+
+#longline {
+    margin: 20px 0px 5px 0px;
+}
+
+#code {
+    height: 300px;
+    width: 200px;
+    background-image: url(images/ad_background.png);
+    text-align: center;
+}
+
+#reinvent {
+    color: white;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#ninja {
+    height: 120px;
+}
+
+#contentbox {
+    display: inline-block;
+    width: 763px;
+    height: 550px;
+    vertical-align: top;
+}
+
+.arrows {
+    font-size: 10px;
+}
+
+.lightblue {
+    color: #76d8e8;
+}
+
+.lighterblue {
+    color: #c0eef5;
+}
+
+.lightestblue {
+    color: #e1f7fa;
+}
+
+#hours {
+    text-align: right;
+    font-size: 10px;
+    color: grey;
+    margin: 0;
+    padding: 0px 10px 0px 0px;
+    display: block;
+}
+
+#home {
+    height: 20px;
+    vertical-align: top;
+}
+
+#DNS {
+    color: #3974a6;
+    display: inline-block;
+    vertical-align: top;
+    padding: 4px 0px 0px 0px;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+#phone {
+    height: 50px;
+    display: inline-block;
+    padding: 0px 0px 0px 510px;
+}
+
+#phnumber{
+    color: #76d8e8;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px 0px 0px 5px;
+    padding: 0px;
+}
+
+#international{
+    color: grey;
+    font-size: 9px;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+    padding-left: 400px;
+    margin-top: -25px;
+    margin-right: 10px;
+}
+
+h3 {
+    font-size: 18px;
+    color: #3977ab;
+    padding: 0px 0px 0px 5px;
+
+}
+
+h4 {
+    font-size: 18px;
+    color: #3977ab;
+    padding: 0px 200px 0px 5px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    
+}
+
+.standard {
+    font-size: 14px;
+    padding: 5px 0px 0px 5px;
+    font-weight: normal;
+    margin-right: 10px;
+}
+
+.bigthreep {
+    font-size: 14px;
+    padding: 5px 0px 0px 120px;
+    font-weight: normal;
+    margin-right: 10px;
+    margin-top: -70px;
+    vertical-align: top;
+}
+
+.last {
+    font-size: 14px;
+    padding: 5px 0px 0px 120px;
+    font-weight: normal;
+    margin-right: 10px;
+    vertical-align: top;
+}
+
+
+.standardlink {
+    color: #76d8e8;
+}
+
+.standardbold {
+    font-weight: bold;
+}
+
+#internet {
+    width: 250px;
+    margin: 20px auto;
+    display: block;
+}
+
+#bigthreediv {
+    width: 755px;
+    height: 100px;
+    border-top: 5px solid #0085e0;
+    border-left: 5px solid #0085e0;
+    border-right: 5px solid #0085e0;
+    margin-top: 10px;
+    background: white;
+}
+
+#HTML {
+    height: 100px;
+    display: inline-block;
+
+}
